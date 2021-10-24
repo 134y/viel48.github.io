@@ -1,2 +1,2 @@
 # viel48.github.io
-bms難易度表作成関連のやつ
+なるべくsatelliteやstellaに入っている曲の同梱譜面をかき集めて作ったsatelliteに行くまでの地力を養うための難易度表プロジェクト
